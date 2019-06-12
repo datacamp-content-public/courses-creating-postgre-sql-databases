@@ -41,3 +41,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Defining Numeric Data Columns
+
+```yaml
+type: VideoExercise
+key: 815e218a3e
+xp: 50
+```
+
+`@projector_key`
+8783137a14e80a186a3ee84c1645f6a0
